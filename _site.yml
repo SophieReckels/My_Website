@@ -1,8 +1,8 @@
-name: "BEACON_createwebsite"
-title: "My Website"
+name: "NochmalMitDocs"
+title: "NochmalMitDocs"
 description: |
-  My Website
-output_dir: "_site"
+  NochmalMitDocs
+output_dir: "_docs"
 navbar:
   right:
     - text: "Home"
